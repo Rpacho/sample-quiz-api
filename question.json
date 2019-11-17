@@ -1,0 +1,8 @@
+{
+	"movies":[
+	{"id" : 0, "name": "Alladin", "link": "www.google.com",
+	"color": "blue"},
+	{"id": 1, "name": "Spiderman", "link": "www.google.com",
+	"color": "red"}
+	]
+}
