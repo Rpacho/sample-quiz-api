@@ -1,8 +1,32 @@
 {
-	"movies":[
-	{"id" : 0, "name": "Alladin", "link": "www.google.com",
-	"color": "blue"},
-	{"id": 1, "name": "Spiderman", "link": "www.google.com",
-	"color": "red"}
-	]
+  "movies": [
+    {
+      "id": 0,
+      "name": "Alladin 2019",
+      "link": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)",
+      "color": "#33334d",
+      "checked": true
+    },
+    {
+      "id": 1,
+      "name": "Spider-Man: Far From Home 2",
+      "link": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home",
+      "color": "red",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Lion King 2019",
+      "link": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
+      "color": "green",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Joker",
+      "link": "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+      "color": "violet",
+      "checked": true
+    }
+  ]
 }
