@@ -7,9 +7,17 @@
 		"b": "DML" ,
 		"c": "Database" ,
 		"d": "Transaction" ,
-		"answer": "c",
-    	"color": "#33334d",
-    	"checked": true
-    }
+		"answer": "c"
+	},
+	{
+		"id": 1,
+		"question": "Greatest potential for Performance improvment is in? (where quesries originate), not the database (which stores the data) or the physical enviroment where the database resides",
+		"a": "System",
+		"b": "Application",
+		"c": "Database",
+		"d": "All of the above",
+		"answer": "b"
+  	}
+	
   ]
 }
