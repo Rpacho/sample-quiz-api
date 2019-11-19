@@ -1,295 +1,294 @@
 {
-  "movies": [
-    {
-		"id": 0,
-		"question" : "A Shared collection of logical related data (and a description of this data), designed to meet the information needs of an organization",
-		"a": "DDL" ,
-		"b": "DML" ,
-		"c": "Database" ,
-		"d": "Transaction" ,
-		"answer": "c"
-	},
-	{
-		"id": 1,
-		"question": "Greatest potential for Performance improvment is in? (where quesries originate), not the database (which stores the data) or the physical enviroment where the database resides",
-		"a": "System",
-		"b": "Application",
-		"c": "Database",
-		"d": "All of the above",
-		"answer": "b"
-  	}
-	
-  ],
-  "211": [
-	  {
-		"id": 0,
-		"question": "What is the advantages of JSX over the original React element",
-		"a": "less code generally means less chance for errors! and code is easier to read",
-		"b": "fast performance",
-		"c": "easy to undestand",
-		"d": "All of the above",
-		"answer": "a"
-	},
-	{
-		"id": 1,
-		"question": "To render more than one element what do you need to wrap in?",
-		"a": "JSX",
-		"b": "ReactDOM.render",
-		"c": "React.createElement",
-		"d": "React.Fragment",
-		"answer": "d"
-	},
-	{
-		"id": 2,
-		"question": "How many can ReactDOM.render() element can accept?",
-		"a": "As many as you need",
-		"b": "one",
-		"c": "three",
-		"d": "only a few",
-		"answer": "b"
-	},
-	{
-		"id": 3,
-		"question": "Any JS Expression can be embedded in JSX by surrounding it with what?",
-		"a": "curly braces {}",
-		"b": "square braket []",
-		"c": "tick `",
-		"d": "round bracket ()",
-		"answer": "a"
-	},
-	{
-		"id": 4,
-		"question": "How  can you comment in JSX code?",
-		"a": "# likethis",
-		"b": "// comment",
-		"c": "{/* comment */}",
-		"d": "{//comment}",
-		"answer": "c"
-	},
-	{
-		"id": 5,
-		"question": "How can JSX execute in the browsers?",
-		"a": "Because its javascript",
-		"b": "Babel is a transpiler for JSX takes any JSX and transpiles it to JS",
-		"c": "Babel is the compiler for Browser",
-		"d": "Javascript has a library to compile the JSX automatically",
-		"answer": "b"
-	},
-	{
-		"id": 6,
-		"question": "What is React Component?",
-		"a": "It's a React Component where you can create e.g., Function",
-		"b": "Multi-DOM",
-		"c": "Props",
-		"d": "Web Dev",
-		"answer": "a"
-	},
-	{
-		"id": 7,
-		"question": "____ Components allow you to encapsulate several DOM elements",
-		"a": "use State class",
-		"b": "Hook State",
-		"c": "React.createElement",
-		"d": "React Function",
-		"answer": "d"
-	},
-	{
-		"id": 8,
-		"question": "Function Components are _______ - they don't store any kind of state   they are the most basic React Component",
-		"a": "React Element",
-		"b": "Dom",
-		"c": "Props",
-		"d": "Stateless",
-		"answer": "d"
-	},
-	{
-		"id": 9,
-		"question": "_____ is the object that is made up of JSX attributes (data) passed in on creation of the Component",
-		"a": "Dom",
-		"b": "React",
-		"c": "Props",
-		"d": "React State Class",
-		"answer": "c"
-	},
-	{
-		"id": 10,
-		"question": "React elements can be either ______ or _______",
-		"a": "Dom elements or React Components",
-		"b": "Function or Variable",
-		"c": "Parent or child",
-		"d": "All of the above",
-		"answer": "a"
-	},
-	{
-		"id": 11,
-		"question": "Execute the blocking operation in its own thread threads share process resources but execute independently from each other thread scheduling handled by OS",
-		"a": "Asynchronous Model",
-		"b": "Synchronous Model",
-		"c": "Multi-Threaded Model",
-		"d": "Promises",
-		"answer": "c"
-	},
-	{
-		"id": 12,
-		"question": "Only a single thread no complex multi-threaded programming req'd no inter-thread communication needed less resource heavy compared to multi-threaded model",
-		"a": "Asynchronous Model",
-		"b": "Synchronous Model",
-		"c": "Multi-Treaded Model",
-		"d": "Promises",
-		"answer": "a"
-	},
-	{
-		"id": 13,
-		"question": "When single thread encounters blocking operation, it continues to next task blocking operation can register a _________",
-		"a": "Variable",
-		"b": "Memory",
-		"c": "callback",
-		"d": "data",
-		"answer": "c"
-	},
-	{
-		"id": 14,
-		"question": "One of three state promises - its initial state before result is ready",
-		"a": "Rejected",
-		"b": "Fulfilled",
-		"c": "Pending",
-		"d": "None",
-		"answer": "c"
-	},
-	{
-		"id": 15,
-		"question": "One of three state promises - _____ when result is ready",
-		"a": "Rejected",
-		"b": "Fulfilled",
-		"c": "Pending",
-		"d": "None",
-		"answer": "b"
-	},
-	{
-		"id": 16,
-		"question": "One of three state promises - _____ if there is an error",
-		"a": "Rejected",
-		"b": "Fulfilled",
-		"c": "Pending",
-		"d": "None",
-		"answer": "a"
-	},
-	{
-		"id": 17,
-		"question": "ES6 introduced ______ it replace Callbacks",
-		"a": "State Class",
-		"b": "State Hook",
-		"c": "Promises",
-		"d": "Async",
-		"answer": "c"
-	},
-	{
-		"id": 18,
-		"question": "You must use an asynchronous function that is designed to return a _____ Object",
-		"a": "State Class",
-		"b": "State Hook",
-		"c": "Promises",
-		"d": "Async",
-		"answer": "c"
-	},
-	{
-		"id": 19,
-		"question": "if the asynchronous function fails in some way, the _______'s catch method is executed the callback passed in an as an argument will run with an Error object",
-		"a": "State Class",
-		"b": "State Hook",
-		"c": "Promises",
-		"d": "Async",
-		"answer": "c"
-	},
-	{
-		"id": 20,
-		"question": "If you use async keyword on a function, the function will always return a _______",
-		"a": "State Class",
-		"b": "State Hook",
-		"c": "await",
-		"d": "Promise",
-		"answer": "d"
-	},
-	{
-		"id": 21,
-		"question": "_____ is the new API supported natively in modern browsers uses Promises so browsers must natively support ES6 (not a problem on new browsers) older browsers won't support it - IE doesn't support it at all",
-		"a": "Axios",
-		"b": "Fetch",
-		"c": "fetch()",
-		"d": "Promises",
-		"answer": "c"
-	},
-	{
-		"id": 22,
-		"question": "______ is a high-level wrapper around the old XHR supported in all browsers old and new but is a 3rd party library - not officially",
-		"a": "Axios",
-		"b": "Fetch",
-		"c": "fetch()",
-		"d": "AJAX",
-		"answer": "a"
-	},
-	{
-		"id": 23,
-		"question": "to use await, we need to wrap our readFile() function call in an async function we then execute the function right after it's defined there's a much easier syntax for this called "iffe"",
-		"a": "True",
-		"b": "False",
-		"c": "None",
-		"d": "None",
-		"answer": "a"
-	},
-	{
-		"id": 24,
-		"question": "fetch() will not generate a rejected Promise on HTTP error status codes",
-		"a": "True",
-		"b": "False",
-		"c": "None",
-		"d": "None",
-		"answer": "a"
-	},
-	{
-		"id": 25,
-		"question": "const result = await response.json(); If the fetch() call was successful, the Fulfilled Promise is stored in response",
-		"a": "False",
-		"b": "True",
-		"c": "None",
-		"d": "None",
-		"answer": "b"
-	},
-	{
-		"id": 26,
-		"question": "this.setState({ labs: result }); to extract the JSON from the Response Object this is another async function call so again need to use await",
-		"a": "True",
-		"b": "False",
-		"c": "None",
-		"d": "None",
-		"answer": "a"
-	},
-	{
-		"id": 27,
-		"question": "When fetching data from an API, storing it in an array, and rendering it with JSX, ___ is often used.",
-		"a": "Json",
-		"b": "map",
-		"c": "async",
-		"d": "response",
-		"answer": "b"
-	},
-	{
-		"id": 28,
-		"question": "Any Component or DOM element rendered in map must have a ___ attribute",
-		"a": "id",
-		"b": "key",
-		"c": "map",
-		"d": "variable",
-		"answer": "b"
-	},
-	{
-		"id": 29,
-		"question": "{...lab} syntax is called",
-		"a": "pierce syntax",
-		"b": "spread syntax",
-		"c": "normal syntax",
-		"d": "cluster syntax",
-		"answer": "b"
-	}
-  ]
+	"movies": [
+		{
+			"id": 0,
+			"question": "A Shared collection of logical related data (and a description of this data), designed to meet the information needs of an organization",
+			"a": "DDL",
+			"b": "DML",
+			"c": "Database",
+			"d": "Transaction",
+			"answer": "c"
+		},
+		{
+			"id": 1,
+			"question": "Greatest potential for Performance improvment is in? (where quesries originate), not the database (which stores the data) or the physical enviroment where the database resides",
+			"a": "System",
+			"b": "Application",
+			"c": "Database",
+			"d": "All of the above",
+			"answer": "b"
+		}
+	],
+	"211": [
+		{
+			"id": 0,
+			"question": "What is the advantages of JSX over the original React element",
+			"a": "less code generally means less chance for errors! and code is easier to read",
+			"b": "fast performance",
+			"c": "easy to undestand",
+			"d": "All of the above",
+			"answer": "a"
+		},
+		{
+			"id": 1,
+			"question": "To render more than one element what do you need to wrap in?",
+			"a": "JSX",
+			"b": "ReactDOM.render",
+			"c": "React.createElement",
+			"d": "React.Fragment",
+			"answer": "d"
+		},
+		{
+			"id": 2,
+			"question": "How many can ReactDOM.render() element can accept?",
+			"a": "As many as you need",
+			"b": "one",
+			"c": "three",
+			"d": "only a few",
+			"answer": "b"
+		},
+		{
+			"id": 3,
+			"question": "Any JS Expression can be embedded in JSX by surrounding it with what?",
+			"a": "curly braces {}",
+			"b": "square braket []",
+			"c": "tick `",
+			"d": "round bracket ()",
+			"answer": "a"
+		},
+		{
+			"id": 4,
+			"question": "How  can you comment in JSX code?",
+			"a": "# likethis",
+			"b": "// comment",
+			"c": "{/* comment */}",
+			"d": "{//comment}",
+			"answer": "c"
+		},
+		{
+			"id": 5,
+			"question": "How can JSX execute in the browsers?",
+			"a": "Because its javascript",
+			"b": "Babel is a transpiler for JSX takes any JSX and transpiles it to JS",
+			"c": "Babel is the compiler for Browser",
+			"d": "Javascript has a library to compile the JSX automatically",
+			"answer": "b"
+		},
+		{
+			"id": 6,
+			"question": "What is React Component?",
+			"a": "It's a React Component where you can create e.g., Function",
+			"b": "Multi-DOM",
+			"c": "Props",
+			"d": "Web Dev",
+			"answer": "a"
+		},
+		{
+			"id": 7,
+			"question": "____ Components allow you to encapsulate several DOM elements",
+			"a": "use State class",
+			"b": "Hook State",
+			"c": "React.createElement",
+			"d": "React Function",
+			"answer": "d"
+		},
+		{
+			"id": 8,
+			"question": "Function Components are _______ - they don't store any kind of state   they are the most basic React Component",
+			"a": "React Element",
+			"b": "Dom",
+			"c": "Props",
+			"d": "Stateless",
+			"answer": "d"
+		},
+		{
+			"id": 9,
+			"question": "_____ is the object that is made up of JSX attributes (data) passed in on creation of the Component",
+			"a": "Dom",
+			"b": "React",
+			"c": "Props",
+			"d": "React State Class",
+			"answer": "c"
+		},
+		{
+			"id": 10,
+			"question": "React elements can be either ______ or _______",
+			"a": "Dom elements or React Components",
+			"b": "Function or Variable",
+			"c": "Parent or child",
+			"d": "All of the above",
+			"answer": "a"
+		},
+		{
+			"id": 11,
+			"question": "Execute the blocking operation in its own thread threads share process resources but execute independently from each other thread scheduling handled by OS",
+			"a": "Asynchronous Model",
+			"b": "Synchronous Model",
+			"c": "Multi-Threaded Model",
+			"d": "Promises",
+			"answer": "c"
+		},
+		{
+			"id": 12,
+			"question": "Only a single thread no complex multi-threaded programming req'd no inter-thread communication needed less resource heavy compared to multi-threaded model",
+			"a": "Asynchronous Model",
+			"b": "Synchronous Model",
+			"c": "Multi-Treaded Model",
+			"d": "Promises",
+			"answer": "a"
+		},
+		{
+			"id": 13,
+			"question": "When single thread encounters blocking operation, it continues to next task blocking operation can register a _________",
+			"a": "Variable",
+			"b": "Memory",
+			"c": "callback",
+			"d": "data",
+			"answer": "c"
+		},
+		{
+			"id": 14,
+			"question": "One of three state promises - its initial state before result is ready",
+			"a": "Rejected",
+			"b": "Fulfilled",
+			"c": "Pending",
+			"d": "None",
+			"answer": "c"
+		},
+		{
+			"id": 15,
+			"question": "One of three state promises - _____ when result is ready",
+			"a": "Rejected",
+			"b": "Fulfilled",
+			"c": "Pending",
+			"d": "None",
+			"answer": "b"
+		},
+		{
+			"id": 16,
+			"question": "One of three state promises - _____ if there is an error",
+			"a": "Rejected",
+			"b": "Fulfilled",
+			"c": "Pending",
+			"d": "None",
+			"answer": "a"
+		},
+		{
+			"id": 17,
+			"question": "ES6 introduced ______ it replace Callbacks",
+			"a": "State Class",
+			"b": "State Hook",
+			"c": "Promises",
+			"d": "Async",
+			"answer": "c"
+		},
+		{
+			"id": 18,
+			"question": "You must use an asynchronous function that is designed to return a _____ Object",
+			"a": "State Class",
+			"b": "State Hook",
+			"c": "Promises",
+			"d": "Async",
+			"answer": "c"
+		},
+		{
+			"id": 19,
+			"question": "if the asynchronous function fails in some way, the _______'s catch method is executed the callback passed in an as an argument will run with an Error object",
+			"a": "State Class",
+			"b": "State Hook",
+			"c": "Promises",
+			"d": "Async",
+			"answer": "c"
+		},
+		{
+			"id": 20,
+			"question": "If you use async keyword on a function, the function will always return a _______",
+			"a": "State Class",
+			"b": "State Hook",
+			"c": "await",
+			"d": "Promise",
+			"answer": "d"
+		},
+		{
+			"id": 21,
+			"question": "_____ is the new API supported natively in modern browsers uses Promises so browsers must natively support ES6 (not a problem on new browsers) older browsers won't support it - IE doesn't support it at all",
+			"a": "Axios",
+			"b": "Fetch",
+			"c": "fetch()",
+			"d": "Promises",
+			"answer": "c"
+		},
+		{
+			"id": 22,
+			"question": "______ is a high-level wrapper around the old XHR supported in all browsers old and new but is a 3rd party library - not officially",
+			"a": "Axios",
+			"b": "Fetch",
+			"c": "fetch()",
+			"d": "AJAX",
+			"answer": "a"
+		},
+		{
+			"id": 23,
+			"question": "to use await, we need to wrap our readFile() function call in an async function we then execute the function right after it's defined there's a much easier syntax for this called iffe",
+			"a": "True",
+			"b": "False",
+			"c": "None",
+			"d": "None",
+			"answer": "a"
+		},
+		{
+			"id": 24,
+			"question": "fetch() will not generate a rejected Promise on HTTP error status codes",
+			"a": "True",
+			"b": "False",
+			"c": "None",
+			"d": "None",
+			"answer": "a"
+		},
+		{
+			"id": 25,
+			"question": "const result = await response.json(); If the fetch() call was successful, the Fulfilled Promise is stored in response",
+			"a": "False",
+			"b": "True",
+			"c": "None",
+			"d": "None",
+			"answer": "b"
+		},
+		{
+			"id": 26,
+			"question": "this.setState({ labs: result }); to extract the JSON from the Response Object this is another async function call so again need to use await",
+			"a": "True",
+			"b": "False",
+			"c": "None",
+			"d": "None",
+			"answer": "a"
+		},
+		{
+			"id": 27,
+			"question": "When fetching data from an API, storing it in an array, and rendering it with JSX, ___ is often used.",
+			"a": "Json",
+			"b": "map",
+			"c": "async",
+			"d": "response",
+			"answer": "b"
+		},
+		{
+			"id": 28,
+			"question": "Any Component or DOM element rendered in map must have a ___ attribute",
+			"a": "id",
+			"b": "key",
+			"c": "map",
+			"d": "variable",
+			"answer": "b"
+		},
+		{
+			"id": 29,
+			"question": "{...lab} syntax is called",
+			"a": "pierce syntax",
+			"b": "spread syntax",
+			"c": "normal syntax",
+			"d": "cluster \"syntax",
+			"answer": "b"
+		}
+	]
 }
