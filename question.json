@@ -303,10 +303,10 @@
 	{
 		"id": 31,
 		"question": "What do you pass in a handler?",
-		"a": "string\t onClick=”handleButton()”",
-		"b": "function name\t onClick={handleButton}",
-		"c": "int\t onClick={10}",
-		"d": "double\t onClick={3.5}",
+		"a": "string onClick=”handleButton()”",
+		"b": "function name onClick={handleButton}",
+		"c": "int onClick={10}",
+		"d": "double onClick={3.5}",
 		"answer": "b"
 	},
 	{
