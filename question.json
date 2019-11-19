@@ -287,8 +287,116 @@
 			"a": "pierce syntax",
 			"b": "spread syntax",
 			"c": "normal syntax",
-			"d": "cluster \"syntax",
+			"d": "cluster syntax",
 			"answer": "b"
+		},
+		{
+			"id": 30,
+			"question": "Which command is the correct command in React?",
+			"a": "onclick<button onclick=\"handleButton()\">",
+			"b": "onClick<button onClick={handleButton}>",
+			"c": "on-click<button on-click={handleButton}>",
+			"d": "on_click<button on_click=\"handleButton()\">",
+			"answer": "b"
+		},
+		{
+			"id": 31,
+			"question": "What do you pass in a handler?",
+			"a": "string onClick=\"handleButton()\"",
+			"b": "function name onClick={handleButton}",
+			"c": "int onClick={10}",
+			"d": "double onClick={3.5}",
+			"answer": "b"
+		},
+		{
+			"id": 32,
+			"question": "What does events propagate through?",
+			"a": "DOM tree",
+			"b": "Apple pen",
+			"c": "Pineapple pen",
+			"d": "Pen pineapple apple pen",
+			"answer": "a"
+		},
+		{
+			"id": 33,
+			"question": "What are phases to this propagation?",
+			"a": "Take down targer phase, At target phase, Clear bubble phase",
+			"b": "Clear bubble phase, Capture phase (trickle down)",
+			"c": "Capture phase (trickle down), At target phase, Bubble phase (bubble up)",
+			"d": "All the above",
+			"answer": "c"
+		},
+		{
+			"id": 34,
+			"question": "What does capture come from?",
+			"a": "IE (Internet Explorer)",
+			"b": "Google Chrome",
+			"c": "Firefox",
+			"d": "Safari",
+			"answer": "a"
+		},
+		{
+			"id": 35,
+			"question": "Where does bubble come from",
+			"a": "Wireshark",
+			"b": "Github",
+			"c": "Netscape",
+			"d": "GUPz",
+			"answer": "c"
+		},
+		{
+			"id": 36,
+			"question": "How does Capture Phase work?",
+			"a": "An event trickles down from Window through ancestor elements to the target element",
+			"b": "An event trickles up From Window to target element",
+			"c": "An event trickles down from target element through Window",
+			"d": "An event trickles down from Note10 through Note7",
+			"answer": "a"
+		},
+		{
+			"id": 37,
+			"question": "Where does Phase Bubling start?",
+			"a": "Capture phase",
+			"b": "At target",
+			"c": "Clear bubble phase",
+			"d": "Kill bubble phase",
+			"answer": "b"
+		},
+		{
+			"id": 38,
+			"question": "What is the default phase for Events in React?",
+			"a": "At Target and Bubbling",
+			"b": "Capture",
+			"c": "Bubbing",
+			"d": "At Target",
+			"answer": "a"
+		},
+		{
+			"id": 39,
+			"question": "Which one is the correct one using in React?",
+			"a": "<button on_click=\"handleButton()\">",
+			"b": "<button onclick={handleButton}>",
+			"c": "<button onClick=\"handleButton()\">",
+			"d": "<button onClick={handleButton}>",
+			"answer": "d"
+		},
+		{
+			"id": 40,
+			"question": "Which one is the correct one using in React?",
+			"a": "<button onclick=\" () => setCount( count => count + 1 ) \">",
+			"b": "<button on_click={ setCount( count => count + 1 ) }>",
+			"c": "<button onClick={ () => setCount( count => count + 1 ) }>",
+			"d": "<button onClick={ count => count + 1 }>",
+			"answer": "c"
+		},
+		{
+			"id": 41,
+			"question": "What tag should we use as our input field? <input>, <textarea>, <select>, <option>",
+			"a": "True",
+			"b": "False",
+			"c": "None",
+			"d": "None",
+			"answer": "a"
 		}
 	]
 }
