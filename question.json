@@ -294,16 +294,16 @@
 	{
 		"id": 30,
 		"question": "Which command is the correct command in React?",
-		"a": "onclick<button onclick=”handleButton()”>",
+		"a": "onclick<button onclick=\"handleButton()\">",
 		"b": "onClick<button onClick={handleButton}>",
 		"c": "on-click<button on-click={handleButton}>",
-		"d": "on_click<button on_click=”handleButton()”>",
+		"d": "on_click<button on_click=\"handleButton()\">",
 		"answer": "b"
 	},
 	{
 		"id": 31,
 		"question": "What do you pass in a handler?",
-		"a": "string onClick=”handleButton()”",
+		"a": "string onClick=\"handleButton()\"",
 		"b": "function name onClick={handleButton}",
 		"c": "int onClick={10}",
 		"d": "double onClick={3.5}",
@@ -375,16 +375,16 @@
 	{
 		"id": 39,
 		"question": "Which one is the correct one using in React?",
-		"a": "<button on_click=”handleButton()”>",
+		"a": "<button on_click=\"handleButton()\">",
 		"b": "<button onclick={handleButton}>",
-		"c": "<button onClick=”handleButton()”>",
+		"c": "<button onClick=\"handleButton()\">",
 		"d": "<button onClick={handleButton}>",
 		"answer": "d"
 	},
 	{
 		"id": 40,
 		"question": "Which one is the correct one using in React?",
-		"a": "<button onclick=” () => setCount( count => count + 1 ) ”>",
+		"a": "<button onclick=\" () => setCount( count => count + 1 ) \">",
 		"b": "<button on_click={ setCount( count => count + 1 ) }>",
 		"c": "<button onClick={ () => setCount( count => count + 1 ) }>",
 		"d": "<button onClick={ count => count + 1 }>",
