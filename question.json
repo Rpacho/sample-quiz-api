@@ -230,7 +230,7 @@
 	},
 	{
 		"id": 23,
-		"question": "to use await, we need to wrap our readFile() function call in an async function we then execute the function right after it's defined there's a much easier syntax for this called "iffe"",
+		"question": "to use await, we need to wrap our readFile() function call in an async function we then execute the function right after it's defined there's a much easier syntax for this called iffe",
 		"a": "True",
 		"b": "False",
 		"c": "None",
@@ -291,6 +291,5 @@
 		"d": "cluster syntax",
 		"answer": "b"
 	}
-	
   ]
 }
