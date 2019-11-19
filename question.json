@@ -19,5 +19,107 @@
 		"answer": "b"
   	}
 	
+  ],
+  "211": [
+	  {
+		"id": 0,
+		"question": "What is the advantages of JSX over the original React language",
+		"a": "less code generally means less chance for errors! and code is easier to read",
+		"b": "fast performance",
+		"c": "easy to undestand",
+		"d": "All of the above",
+		"answer": "a"
+	},
+	{
+		"id": 1,
+		"question": "To render more than one element what do you need to wrap in?",
+		"a": "JSX",
+		"b": "ReactDOM.render",
+		"c": "React.createElement",
+		"d": "React.Fragment",
+		"answer": "d"
+	},
+	{
+		"id": 2,
+		"question": "How many can ReactDOM.render() element can accept?",
+		"a": "As many as you need",
+		"b": "one",
+		"c": "three",
+		"d": "only a few",
+		"answer": "b"
+	},
+	{
+		"id": 3,
+		"question": "Any JS Expression can be embedded in JSX by surrounding it with what?",
+		"a": "curly braces {}",
+		"b": "square braket []",
+		"c": "tick `",
+		"d": "round bracket ()",
+		"answer": "a"
+	},
+	{
+		"id": 4,
+		"question": "How  can you comment in JSX code?",
+		"a": "# likethis",
+		"b": "// comment",
+		"c": "{/* comment */}",
+		"d": "{//comment}",
+		"answer": "c"
+	},
+	{
+		"id": 5,
+		"question": "How can JSX execute in the browsers?",
+		"a": "Because its a javascript is its normal for it to execute",
+		"b": "Babel is a transpiler for JSX takes any JSX and transpiles it to JS",
+		"c": "Babel is the compiler for Browser",
+		"d": "Javascript has a library to compile the JSX automatically",
+		"answer": "b"
+	},
+	{
+		"id": 6,
+		"question": "What is React Component?",
+		"a": "It's a React Component where you can create e.g., Function",
+		"b": "Multi-DOM",
+		"c": "Props",
+		"d": "Web Dev",
+		"answer": "a"
+	},
+	{
+		"id": 7,
+		"question": "____ Components allow you to encapsulate several DOM elements",
+		"a": "use State class",
+		"b": "Hook State",
+		"c": "React.createElement",
+		"d": "React Function",
+		"answer": "d"
+	},
+	{
+		"id": 8,
+		"question": "Function Components are _______ - they don't store any kind of state   they are the most basic React Component",
+		"a": "React Element",
+		"b": "Dom",
+		"c": "Props",
+		"d": "Stateless",
+		"answer": "d"
+	},
+	{
+		"id": 9,
+		"question": "_____ is the object that is made up of JSX attributes (data) passed in on creation of the Component",
+		"a": "Dom",
+		"b": "React",
+		"c": "Props",
+		"d": "React State Class",
+		"answer": "c"
+	},
+	{
+		"id": 10,
+		"question": "React elements can be either ______ or _______",
+		"a": "Dom elements or React Components",
+		"b": "Function or Variable",
+		"c": "Parent or child",
+		"d": "All of the above",
+		"answer": "a"
+	}
+	
   ]
 }
