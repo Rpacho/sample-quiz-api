@@ -288,16 +288,7 @@
 		"a": "pierce syntax",
 		"b": "spread syntax",
 		"c": "normal syntax",
-		"d": "cluster syntax",
-		"answer": "b"
-	},
-	{
-		"id": 30,
-		"question": "Which command is the correct command in React?",
-		"a": "onclick<button onclick=\"handleButton()\">",
-		"b": "onClick<button onClick={handleButton}>",
-		"c": "on-click<button on-click={handleButton}>",
-		"d": "on_click<button on_click=\"handleButton()\">",
+		"d": "cluster \"syntax",
 		"answer": "b"
 	}
   ]
